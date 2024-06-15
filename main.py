@@ -1,5 +1,5 @@
 print("hello world")
-temperature = 60
+temperature = 81
 if (temperature > 80):
     print("It's hot out!")
 
